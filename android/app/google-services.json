@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917651331148",
+    "firebase_url": "https://recipehunt-917a9.firebaseio.com",
+    "project_id": "recipehunt-917a9",
+    "storage_bucket": "recipehunt-917a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917651331148:android:3793c548a344897b677ce9",
+        "android_client_info": {
+          "package_name": "com.myproject.recipe_hunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917651331148-dh642lmpjurp71v0ij9l6c6pv9tf892h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKz3l3zjaSeDP8RQSHfFwE2jAWITN6218"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917651331148-dh642lmpjurp71v0ij9l6c6pv9tf892h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
